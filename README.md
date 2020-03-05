@@ -1,4 +1,4 @@
-# ALPR___ 
+# ALPR
 
 ## Preparation 
 
