@@ -1,7 +1,7 @@
 # ALPR 
+___
 
-
-### Preparation 
+## Preparation 
 
 ##### download virtual environment(linux)
 
@@ -15,7 +15,7 @@
 
 
 
-### credit
+## credit
 ```
 eriklindernoren/PyTorch-YOLOv3
 
