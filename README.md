@@ -1,6 +1,6 @@
 # ALPR
 
-## Preparation (준비물)
+## Preparation
 
 ##### download virtual environment(Optional)
 
