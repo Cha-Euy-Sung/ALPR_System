@@ -1,7 +1,8 @@
 # ALPR 
+-----
 
 ### Preparation 
-
+-----
 ##### download virtual environment(linux)
 
 
@@ -13,9 +14,9 @@
 
 
 
------
-### credit
 
+### credit
+-----
 eriklindernoren/PyTorch-YOLOv3
 
 tzutalin/labelImg
