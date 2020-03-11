@@ -41,19 +41,23 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 ##### Argument parser
 
 |   |  type | default | help |
-|-----|:-----:|:------:|:-----:|
+|:-----:|:-----:|:------:|:-----:|
 |--image_folder|str | /data/image/| path to image_folder which contains text images|
 |--workers|int|4|number of data loading workers|
 |--batch_size|int|192|input batch size|
 |--img_size|int|800|size of each image dimension|
 |--video|str||only need when using video format|
+|YOLO setting||||
+|--model_def|str|/config/custom.cfg|path to model definition file|
+|--weights_path|str|/weights/plate.weights|path to weights file|
+|--class_path|str|/data/custom/custom.names|path to class label file|
+|--iou_thres|str|0.5|iou threshold required to qualify as detected|
+|--conf_thres|str|0.8|object confidence threshold|
+|--n_cpu|int|8|number of cpu threads to use during batch generation|
+|Data processing||||
 |||||
 |||||
 |||||
-|||||
-|||||
-|||||
-
 
 
 
