@@ -6,7 +6,9 @@
 
 ##### Clone and install requirements
 ```
-
+$ git clone https://github.com/Cha-Euy-Sung/ALPR
+$ cd ALPR/
+$ sudo pip3 install -r requirements.txt
 ```
 ##### download virtual environment(Optional)
 
