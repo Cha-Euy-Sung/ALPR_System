@@ -40,9 +40,9 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 
 ##### Argument parser
 
-    |   |  type | default | help |
-    |-----|:-----:|:------:|:-----:|
-    | --image_folder|str | data/image/| path to image_folder which contains text images|
+|   |  type | default | help |
+|-----|:-----:|:------:|:-----:|
+| --image_folder|str | data/image/| path to image_folder which contains text images|
     
     
 
