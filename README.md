@@ -8,13 +8,13 @@
 
 ## Preparation
 
-##### Clone and install requirements
+#### Clone and install requirements
 ```
 $ git clone https://github.com/Cha-Euy-Sung/ALPR
 $ cd ALPR/
 $ sudo pip3 install -r requirements.txt
 ```
-##### download virtual environment(Optional)
+#### download virtual environment(Optional)
 
 [virt_env](https://drive.google.com/drive/folders/1qiPqo5hqrJK2ls1wVOfOg2Y41MnB3NOC?usp=sharing)
 
@@ -24,12 +24,12 @@ $ cd yy
 $ cd bin
 $ source ./activate 
 ```
-##### download pretrained weights
+#### download pretrained weights
 
 [weights.zip](https://drive.google.com/file/d/1TVgXuKUXV57BzKNoc4lnE9514QN6Gh7-/view?usp=sharing)
 
 
-##### sample data set for training
+#### sample data set for training
 
 [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
 
