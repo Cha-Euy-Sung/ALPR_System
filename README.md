@@ -41,7 +41,11 @@ $ source ./activate
 #### sample data set used for training
 
 - [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
+__________
 
+## Training Detecting model (YOLOv3)
+- If you want to create custom model, please check follow link: [click](https://github.com/tzutalin/labelImg)
+- YOLO 라벨링부터 모델 학습 과정을 알고 싶으신 분은 해당 링크를 확인해주세요: [클릭](https://wingnim.tistory.com/58)
 ___________________
 ## <font color="red"> Training OCR model </font>
 ### Train OCR model before put in Plate Recognition model
@@ -84,6 +88,7 @@ $ test/word_3.png A
 ______________________________
 
 ## Test
+#### Commend
 - Test image files
 ```
 $ python main.py --image_folder <your_image_path>
