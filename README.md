@@ -37,9 +37,9 @@ $ source ./activate
 
 ## Argument parser
 
-|  -- |  type | default | help |
+|  -- |  <font color="blue">type | default | help </font>|
 |:-----:|:-----:|:------:|:-----:|
-|<font size=1>image_folder</font>|str | /data/image/| path to image_folder which contains text images|
+|image_folder|str | /data/image/| path to image_folder which contains text images|
 |batch_size|int|192|input batch size|
 |img_size|int|800|size of each image dimension|
 |video|str||only need when using video format|
