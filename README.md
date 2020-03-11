@@ -53,9 +53,7 @@ $ mkdir OCR
 $ cd OCR
 $ git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
 ```
-### Getting Started
-
-check follow link: [click](https://github.com/clovaai/deep-text-recognition-benchmark)
+If you want to train OCR model yourself, please check follow link: [click](https://github.com/clovaai/deep-text-recognition-benchmark)
 
 #### Make Custom Datasets
 1. make gt.txt for create 
