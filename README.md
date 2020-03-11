@@ -1,5 +1,5 @@
 # ALPR(차량번호판인식)
-#### Introduction
+### Introduction
  Automatic License Plate Recognition based on Deep learning. 
  - Work on both image and video format
  - Models were trained by datasets which contains Eng/Number. 
@@ -7,7 +7,7 @@
  - Used YOLOv3 for license plate detection
  - OCR based on CNN,RNN,TPS and Attn|CTC
  
-#### Demo
+### Demo
 [<img src="https://j.gifs.com/wVABrX.gif" width="70%">](https://youtu.be/EIZpI8A1Qe0)
 
 
