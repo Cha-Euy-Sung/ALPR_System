@@ -27,7 +27,7 @@ yy/bin/ 경로에서 source ./activate
 [weights.zip](https://drive.google.com/file/d/1TVgXuKUXV57BzKNoc4lnE9514QN6Gh7-/view?usp=sharing)
 
 
-##### download sample data
+##### sample data set for training
 
 [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
 
