@@ -81,6 +81,7 @@ $ test/word_3.png A
 #### After FT model with custom dataset
 - put the 'best_model.sh' into './PlateRecognition/OCR/saved_models'
 
+______________________________
 
 ## Test
 - Test image files
