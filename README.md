@@ -11,10 +11,6 @@
 [<img src="https://j.gifs.com/wVABrX.gif" width="70%">](https://youtu.be/EIZpI8A1Qe0)
 
 
-
-
-
-
 ## Preparation
 
 #### Clone and install requirements
@@ -45,11 +41,6 @@ $ source ./activate
 #### sample data set used for training
 
 - [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
-
-
-
-
-
 
 
 ## <font color="red"> Training OCR model </font>
@@ -91,15 +82,6 @@ $ test/word_3.png A
 - put the 'best_model.sh' into './PlateRecognition/OCR/saved_models'
 
 
-
-
-
-
-
-
-
-
-
 ## Test
 - Test image files
 ```
@@ -129,12 +111,9 @@ $ python3 main.py --video data/video/<video_name>
 |Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
 
 
-
-
 ## Cooperation
 
 Thanks to Jinjoo[@hhaahaha](https://github.com/hhaahaha) for implementing Optical Character Recognition, and working on this project together. 
-
 
 
 ## Credit
