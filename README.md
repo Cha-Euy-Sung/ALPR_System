@@ -1,5 +1,5 @@
-# ALPR
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+# ALPR(차량번호판인식)
+[![Watch the video](https://img.youtube.com/vi/EIZpI8A1Qe0/maxresdefault.jpg)](https://youtu.be/EIZpI8A1Qe0)
 
 ## Preparation
 
