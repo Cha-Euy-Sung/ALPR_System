@@ -1,6 +1,10 @@
 # ALPR(차량번호판인식)
 
+딥러닝 기반의 Automatic License Plate Recognition 기술 구현 
+
 [<img src="https://j.gifs.com/wVABrX.gif" width="70%">](https://youtu.be/EIZpI8A1Qe0)
+
+
 
 ## Preparation
 
