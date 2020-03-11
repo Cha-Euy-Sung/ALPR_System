@@ -35,7 +35,17 @@ $ source ./activate
 
 
 
-## Argument parser
+
+
+
+
+
+## Test
+
+```
+python3 main.py 
+```
+#### Argument parser
 
 |  -- |  <font color="blue">type | default | help </font>|
 |:-----:|:-----:|:------:|:-----:|
@@ -53,13 +63,6 @@ $ source ./activate
 |Transformation|str|TPS|Transformation stage. 'None' or 'TPS'|
 |FeatureExtraction|str|ResNet|FeatureExtraction stage. 'VGG'or'RCNN'or'ResNet'|
 |Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
-
-
-## Test
-
-```
-python3 main.py 
-```
 
 
 
