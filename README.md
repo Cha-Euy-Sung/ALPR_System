@@ -1,4 +1,4 @@
-# ALPR(차량번호판인식)
+# <font color="red"> ALPR(차량번호판인식) </font>
 ## Introduction
  Automatic License Plate Recognition based on Deep learning. 
  - Work on both image and video format
@@ -45,7 +45,7 @@ $ source ./activate
 
 
 
-## Training OCR model
+## <font color="red"> Training OCR model </font>
 ### Train OCR model before put in Plate Recognition model
 #### Clone and install requirements
 ```
