@@ -46,7 +46,6 @@ eriklindernoren/PyTorch-YOLOv3
 
 tzutalin/labelImg
 
-Sample Video source: [Budok Nano]. (2017, Jan 18). Driving In Kuala Lumpur, Youtube. 
 ```
 
 sudo apt install libdvdnav4 libdvdread4 gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly libdvd-pkg
