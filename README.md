@@ -94,9 +94,13 @@ test/word_3.png A
 
 
 ## Test
-
+- Test image files
 ```
-python3 main.py 
+$ python main.py --image_folder <your_image_path>
+```
+- Test video files
+```
+$ python3 main.py --video data/video/<video_name>
 ```
 #### Argument parser
 
