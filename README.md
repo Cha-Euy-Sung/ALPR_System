@@ -4,6 +4,10 @@
 
 ## Preparation
 
+##### Clone and install requirements
+```
+
+```
 ##### download virtual environment(Optional)
 
 [virt_env](https://drive.google.com/drive/folders/1qiPqo5hqrJK2ls1wVOfOg2Y41MnB3NOC?usp=sharing)
