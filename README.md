@@ -12,6 +12,9 @@
 
 
 
+
+
+
 ## Preparation
 
 #### Clone and install requirements
@@ -42,6 +45,10 @@ $ source ./activate
 #### sample data set used for training
 
 - [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
+
+
+
+
 
 
 
