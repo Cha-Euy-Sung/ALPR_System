@@ -60,16 +60,16 @@ $ git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
 ```
 
 #### Make Custom Datasets
-  1. make gt.txt for create 
+  - 1. make gt.txt for create 
 ```
 pip3 install fire
 python3 make_gt_txt.py --file_name gt.txt --dir_path data/image/
 ```
-  2. Create your own lmdb dataset.
+  - 2. Create your own lmdb dataset.
 ```
 python3 create_lmdb_dataset.py --inputPath data/ --gtFile data/gt.txt --outputPath result/
 ```
-At this time, `gt.txt` should be `{imagepath}\t{label}\n` <br>
+- At this time, `gt.txt` should be `{imagepath}\t{label}\n` <br>
 For example
 ```
 test/word_1.png Tiredness
@@ -77,7 +77,7 @@ test/word_2.png kills
 test/word_3.png A
 ...
 ```
-  3. Modify `--select_data`, `--batch_ratio`, and `opt.character`, see [this issue](https://github.com/clovaai/deep-text-recognition-benchmark/issues/85).
+  - 3. Modify `--select_data`, `--batch_ratio`, and `opt.character`, see [this issue](https://github.com/clovaai/deep-text-recognition-benchmark/issues/85).
 
 #### After FT model with custom dataset
 - put the 'best_model.sh' into './PlateRecognition/OCR/saved_models'
@@ -123,10 +123,11 @@ python3 main.py
 
 Thanks to Jinju@hhaahaha for implementing Optical Character Recognition, and working on this project together. 
 
+
+
 ## Credit
 ```
 eriklindernoren/PyTorch-YOLOv3
-
 tzutalin/labelImg
 
 ```
