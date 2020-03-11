@@ -1,6 +1,6 @@
 # ALPR(차량번호판인식)
 
-[<img src="https://img.youtube.com/vi/EIZpI8A1Qe0/maxresdefault.jpg" width="50%">](https://youtu.be/EIZpI8A1Qe0)
+[<img src="https://j.gifs.com/wVABrX.gif" width="70%">](https://youtu.be/EIZpI8A1Qe0)
 
 ## Preparation
 
