@@ -40,21 +40,22 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 
 ##### Argument parser
 
-|   |  type | default | help |
+|  -- |  type | default | help |
 |:-----:|:-----:|:------:|:-----:|
-|--image_folder|str | /data/image/| path to image_folder which contains text images|
-|--batch_size|int|192|input batch size|
-|--img_size|int|800|size of each image dimension|
-|--video|str||only need when using video format|
-|--model_def|str|/config/custom.cfg|path to model definition file|
-|--weights_path|str|/weights/plate.weights|path to weights file|
-|--class_path|str|/data/custom/custom.names|path to class label file|
-|--conf_thres|str|0.8|object confidence threshold|
-|--n_cpu|int|8|number of cpu threads to use during batch generation|
-|--saved_model|str|OCR/saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth|path to saved_model to evaluation|
-|--Detection|str|Darknet|Detect plate stage. 'None' or 'Darknet'|
-|--Transformation|str|TPS|Transformation stage. 'None' or 'TPS'|
-
+|image_folder|str | /data/image/| path to image_folder which contains text images|
+|batch_size|int|192|input batch size|
+|img_size|int|800|size of each image dimension|
+|video|str||only need when using video format|
+|model_def|str|/config/custom.cfg|path to model definition file|
+|weights_path|str|/weights/plate.weights|path to weights file|
+|class_path|str|/data/custom/custom.names|path to class label file|
+|conf_thres|str|0.8|object confidence threshold|
+|n_cpu|int|8|number of cpu threads to use during batch generation|
+|saved_model|str|/OCR/saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth|path to saved_model to evaluation|
+|Detection|str|Darknet|Detect plate stage. 'None' or 'Darknet'|
+|Transformation|str|TPS|Transformation stage. 'None' or 'TPS'|
+|FeatureExtraction|str|ResNet|FeatureExtraction stage. 'VGG'or'RCNN'or'ResNet'|
+|Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
 
 
 
