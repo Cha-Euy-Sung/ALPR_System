@@ -51,10 +51,9 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 |--class_path|str|/data/custom/custom.names|path to class label file|
 |--conf_thres|str|0.8|object confidence threshold|
 |--n_cpu|int|8|number of cpu threads to use during batch generation|
-|Data processing||||
-|||||
-|||||
-|||||
+|--saved_model|str|OCR/saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth|path to saved_model to evaluation|
+|--Detection|str|Darknet|Detect plate stage. 'None' or 'Darknet'|
+|--Transformation|str|TPS|Transformation stage. 'None' or 'TPS'|
 
 
 
@@ -71,5 +70,3 @@ tzutalin/labelImg
 
 ```
 
-sudo apt install libdvdnav4 libdvdread4 gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly libdvd-pkg
-sudo apt install ubuntu-restricted-extras
