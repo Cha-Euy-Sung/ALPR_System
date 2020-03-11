@@ -17,10 +17,12 @@ $ sudo pip3 install -r requirements.txt
 ##### download virtual environment(Optional)
 
 [virt_env](https://drive.google.com/drive/folders/1qiPqo5hqrJK2ls1wVOfOg2Y41MnB3NOC?usp=sharing)
-```
-/home/pirl/yy 에 폴더 다운로드
 
-yy/bin/ 경로에서 source ./activate 
+download 'yy.zip' at /home/pirl/yy 
+```
+$ cd yy
+$ cd bin
+$ source ./activate 
 ```
 ##### download pretrained weights
 
