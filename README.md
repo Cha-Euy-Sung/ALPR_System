@@ -42,7 +42,7 @@ $ source ./activate
 
 - [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
 
-
+___________________
 ## <font color="red"> Training OCR model </font>
 ### Train OCR model before put in Plate Recognition model
 #### Clone and install requirements
@@ -57,7 +57,7 @@ $ git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
 +RECOMMENDATION : USE ONLY *.sh which is your custom trained model.
 ```
 
-#### Make Custom Datasets
+#### Make Custom Datasets for OCR
  1. make gt.txt for create 
 ```
 $ pip3 install fire
@@ -111,7 +111,7 @@ $ python3 main.py --video data/video/<video_name>
 |FeatureExtraction|str|ResNet|FeatureExtraction stage. 'VGG'or'RCNN'or'ResNet'|
 |Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
 
-
+______
 ## Cooperation
 
 Thanks to Jinjoo[@hhaahaha](https://github.com/hhaahaha) for implementing Optical Character Recognition, and working on this project together. 
