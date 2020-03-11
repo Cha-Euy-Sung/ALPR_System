@@ -3,7 +3,7 @@
  Automatic License Plate Recognition based on Deep learning. 
  - can use both image and video format
  - models were trained by datasets which contains Eng/Number. 
-   (Unfortunately, our work doesn't recognize the Korean alphabet yet)
+   (Unfortunately, it doesn't recognize the Korean)
  - used YOLOv3 for license plate detection
  - OCR based on CNN,RNN,TPS and Attn|CTC
  
