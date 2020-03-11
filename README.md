@@ -54,9 +54,9 @@ $ cd OCR
 $ git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
 ```
 - If you want to know how to train OCR model yourself, please check follow link: [click](https://github.com/clovaai/deep-text-recognition-benchmark)
-```
-CAUTION: DO NOT OVERWRITE *.py files from above link, it may not work properly on our projects.
-RECOMMENDATION : USE ONLY *.sh which is your custom trained model.
+```diff
+-CAUTION: DO NOT OVERWRITE *.py files from above link, it may not work properly on our projects.
++RECOMMENDATION : USE ONLY *.sh which is your custom trained model.
 ```
 
 #### Make Custom Datasets
