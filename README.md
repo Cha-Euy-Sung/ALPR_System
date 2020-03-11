@@ -59,7 +59,9 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 
 
 
-    
+## Cooperation
+
+Thanks to Jinju@hhaahaha for implementing Optical Character Recognition, and working on this project together. 
 
 ## Credit
 ```
