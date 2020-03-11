@@ -1,5 +1,6 @@
 # ALPR
-<video src="video.mp4" width="320" height="200" controls preload></video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 ## Preparation
 
 ##### download virtual environment(Optional)
