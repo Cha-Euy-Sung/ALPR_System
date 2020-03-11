@@ -32,13 +32,8 @@ yy/bin/ 경로에서 source ./activate
 [baza_slika.zip](https://drive.google.com/file/d/1eTEZuuWt6ZiV22eOJ4NJYmcz914BwDpE/view?usp=sharing)
 
 
-## Test
 
-```
-python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weights 
-```
-
-##### Argument parser
+## Argument parser
 
 |  -- |  type | default | help |
 |:-----:|:-----:|:------:|:-----:|
@@ -56,6 +51,14 @@ python3 detect.py --image_folder data/samples/ --weights_path weights/plate.weig
 |Transformation|str|TPS|Transformation stage. 'None' or 'TPS'|
 |FeatureExtraction|str|ResNet|FeatureExtraction stage. 'VGG'or'RCNN'or'ResNet'|
 |Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
+
+
+## Test
+
+```
+python3 main.py 
+```
+
 
 
 
