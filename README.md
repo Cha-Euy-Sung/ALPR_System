@@ -116,10 +116,6 @@ $ python3 main.py --video data/video/<video_name>
 |FeatureExtraction|str|ResNet|FeatureExtraction stage. 'VGG'or'RCNN'or'ResNet'|
 |Prediction|str|Attn|Prediction stage. 'CTC'or'Attn'|
 
-______
-## Cooperation
-
-Thanks to Jinjoo[@hhaahaha](https://github.com/hhaahaha) for implementing Optical Character Recognition, and working on this project together. 
 
 
 ## Credit
