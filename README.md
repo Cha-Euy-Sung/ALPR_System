@@ -1,5 +1,7 @@
 # <font color="red"> ALPR(차량번호판인식) </font>
 ## Introduction
+ YOLOv3를 활용한 차량번호판인식 모델 구현.
+ 
  Automatic License Plate Recognition based on Deep learning. 
  - Work on both image and video format
  - Models were trained by datasets which contains Eng/Number. 
@@ -8,11 +10,11 @@
  - OCR based on CNN,RNN,TPS and Attn|CTC
  
 ## Demo
+#### 아래 화면 클릭 시, 동영상으로 이동
 [<img src="https://j.gifs.com/wVABrX.gif" width="70%">](https://youtu.be/EIZpI8A1Qe0)
 
 
-## Preparation
-
+## Preparation (환경셋팅)
 #### Clone and install requirements
 ```
 $ git clone https://github.com/Cha-Euy-Sung/ALPR
