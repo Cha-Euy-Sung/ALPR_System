@@ -122,6 +122,6 @@ $ python3 main.py --video data/video/<video_name>
 ```
 eriklindernoren/PyTorch-YOLOv3
 tzutalin/labelImg
-
+Cha-Euy-Sung/model training, object recognition, frame converting 
 ```
 
